@@ -1,6 +1,6 @@
 {
-  "last_row": 0,
+  "last_row": 10,
   "source_file": "data/apollo-contacts-export.csv",
   "batch_size": 10,
-  "notes": "Bootstrapped 2026-07-21. No prior runs existed; last_row starts at 0."
+  "notes": "Run 2026-07-21: processed rows 1-10 (ACORD through Hunter). Next run should start at row 11 (DrugDev Marketing Director)."
 }
