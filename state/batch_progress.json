@@ -1,0 +1,5 @@
+{
+  "last_row": 20,
+  "last_updated": "2026-07-22",
+  "notes": "Rows 1-10 were processed prior to this repo having a state/ directory; backfilled into results_log.csv from the existing Google Drive tracking sheet (Apollo Contacts Email Campaigns | DC4). Rows 11-20 processed in this run."
+}
