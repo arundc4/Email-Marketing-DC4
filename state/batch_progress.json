@@ -1,5 +1,7 @@
 {
-  "last_row": 20,
-  "last_updated": "2026-07-22",
-  "notes": "Rows 1-10 were processed prior to this repo having a state/ directory; backfilled into results_log.csv from the existing Google Drive tracking sheet (Apollo Contacts Email Campaigns | DC4). Rows 11-20 processed in this run."
+  "last_row": 30,
+  "source_file": "data/apollo-contacts-export.csv",
+  "batch_size": 10,
+  "last_updated": "2026-07-23",
+  "notes": "Rows 1-20 carried forward from prior orphaned branches (claude/jolly-dijkstra-3u39oi, claude/jolly-dijkstra-97w1vi), which bootstrapped this pipeline but were never merged to main. Rows 21-30 (Sands Capital through TeamDynamix) processed in this run. Next run should start at row 31 (Tempo)."
 }
