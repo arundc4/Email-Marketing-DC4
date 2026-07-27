@@ -1,0 +1,5 @@
+{
+  "last_row": 30,
+  "last_updated": "2026-07-23",
+  "notes": "Reconstructed on 2026-07-27 from existing Google Docs because this file was never committed to git by prior runs. Rows 1-30 (ACORD through TeamDynamix) each have a legitimate mailer doc from runs on 2026-07-21/22/23. Two later runs (2026-07-24 and 2026-07-25) had no persisted last_row, so they redid rows 1-10 twice more, creating duplicate docs for those 10 companies. Those duplicates were left in place (not deleted) pending manual review; see results_log.csv for the canonical doc per row."
+}
