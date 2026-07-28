@@ -1,5 +1,5 @@
 {
-  "last_row": 40,
-  "last_updated": "2026-07-27",
-  "notes": "Rows 1-30 reconstructed on 2026-07-27 from pre-existing Google Docs (see results_log.csv comment history / commit log for details on the 7/24-7/25 duplicate-doc bug from lost state). Rows 31-40 (Tempo, TrustArc, TSL Marketing, TVU, VisionWeb, Viz.ai, Zinnov, Basis Vectors Capital, C&R, Capterra) processed fresh on 2026-07-27, all research_quality=good, no thin flags."
+  "last_row": 50,
+  "last_updated": "2026-07-28",
+  "notes": "Rows 41-50 (Chalk Digital through Jesta I.S.) processed fresh on 2026-07-28. Thin-research flags: row 42 CHEQ (contact Amy Holtzman appears to have left the company per her own LinkedIn, per-contact email needs re-verification before sending) and row 46 Ditto (Apollo record has mismatched contact email domain and an unrelated Facebook URL). IMPORTANT: this run also consolidated state from six previously unmerged branches (claude/jolly-dijkstra-3u39oi, 97w1vi, 9zxnmy, dxj2sr, ossfc6, vujqgh) that each independently branched from main and were never merged back, causing rows 1-30 to be redundantly researched and drafted 2-4x across branches with real duplicate Google Docs created each time. This branch (base: ossfc6, the most advanced prior state) should be merged to main so future scheduled runs stop duplicating work. See repo history for the six orphaned branches if duplicate-doc cleanup in Drive is wanted."
 }
