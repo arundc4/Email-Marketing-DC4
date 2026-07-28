@@ -1,0 +1,5 @@
+{
+  "last_row": 40,
+  "last_updated": "2026-07-27",
+  "notes": "Rows 1-30 reconstructed on 2026-07-27 from pre-existing Google Docs (see results_log.csv comment history / commit log for details on the 7/24-7/25 duplicate-doc bug from lost state). Rows 31-40 (Tempo, TrustArc, TSL Marketing, TVU, VisionWeb, Viz.ai, Zinnov, Basis Vectors Capital, C&R, Capterra) processed fresh on 2026-07-27, all research_quality=good, no thin flags."
+}
