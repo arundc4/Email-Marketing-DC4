@@ -1,0 +1,5 @@
+{
+  "last_row": 10,
+  "last_run_date": "2026-08-01",
+  "notes": "First run of the pipeline. Scaffolding (data/, reference/, state/) created this run since it did not previously exist in the repo. Rows 1-10 of data/apollo-contacts-export.csv processed. DrugDev (row 7) has no email on file and both the company and the named contact are stale (DrugDev was absorbed into IQVIA in 2017); recommend removing or correcting that record before the next run touches it again."
+}
