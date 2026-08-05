@@ -1,4 +1,4 @@
 {
-  "last_row": 0,
+  "last_row": 10,
   "notes": "Row indices are 1-based over data/apollo-contacts-export.csv data rows (header excluded). last_row is the highest row_index fully processed and logged in state/results_log.csv."
 }
