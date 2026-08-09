@@ -1,0 +1,6 @@
+{
+  "last_row": 10,
+  "last_run_date": "2026-08-09",
+  "contacts_file": "apollo-contacts-export.csv",
+  "notes": "First run of the pipeline. state/, reference/, and data/ directories did not previously exist in this repo; contacts CSV lives at repo root (apollo-contacts-export.csv) rather than data/. DC4 brand notes and Jason Nuss voice guide were sourced live from DC4's Google Drive ('DC4 Brand Document' and 'Jason DC4 Brand Voice' docs) since no reference/*.md files exist in-repo."
+}
