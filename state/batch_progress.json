@@ -1,0 +1,5 @@
+{
+  "last_row": 0,
+  "csv_path": "apollo-contacts-export.csv",
+  "notes": "No prior state existed; this is the first run. csv_path is the repo-root CSV (the expected data/apollo-contacts-export.csv path did not exist)."
+}
