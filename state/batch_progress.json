@@ -1,5 +1,6 @@
 {
-  "last_row": 0,
+  "last_row": 10,
   "csv_path": "apollo-contacts-export.csv",
-  "notes": "No prior state existed; this is the first run. csv_path is the repo-root CSV (the expected data/apollo-contacts-export.csv path did not exist)."
+  "last_run_date": "2026-08-10",
+  "notes": "csv_path is the repo-root CSV (the expected data/apollo-contacts-export.csv path did not exist). Rows 1-10 processed in this run."
 }
