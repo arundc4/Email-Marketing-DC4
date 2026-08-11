@@ -1,0 +1,6 @@
+{
+  "last_row": 10,
+  "last_run_date": "2026-08-11",
+  "csv_source": "data/apollo-contacts-export.csv",
+  "notes": "First run. state/, data/, and reference/ directories did not exist prior to this run; batch_progress.json, results_log.csv, reference/jason_voice_guide.md, and reference/dc4_brand_notes.md were bootstrapped. jason_voice_guide.md was extracted from the docx prompt file (which itself referenced a fuller voice guide document not present in the repo). dc4_brand_notes.md was derived from a live read of digitalc4.com since no authored brand notes file existed."
+}
